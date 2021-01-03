@@ -5,7 +5,7 @@
 # I am 14 years old
 
 # Programming languages I know: 
-![Java](https://github.com/virtuallllll/text/java.png)
+![Java](https://github.com/virtuallllll/text/blob/main/java.png)
 ![Python](https://github.com/virtuallllll/text/python.png)
 
 # Contact: 

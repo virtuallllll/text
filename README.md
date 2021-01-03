@@ -6,7 +6,7 @@
 
 # Programming languages I know: 
 ![Java](https://github.com/virtuallllll/text/blob/main/java.png)
-![Python](https://github.com/virtuallllll/text/python.png)
+![Python](https://github.com/virtuallllll/text/blob/main/python.png)
 
 # Contact: 
 
